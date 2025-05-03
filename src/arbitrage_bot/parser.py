@@ -1,3 +1,3 @@
-# aqui colocaremos funções para transformar/limpar dados brutos
 def parse_odds(raw):
-    pass
+    """Retorna os dados brutos como lista (stub)."""
+    return raw
